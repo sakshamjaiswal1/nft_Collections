@@ -1,7 +1,7 @@
 {
   "name": "Saksham NFT #1",
   "description": "These are the best NFT's in the world",
-  "file_url": "ipfs://NewUriToReplace/1.png",
+  "file_url": "https://ipfs.io/ipfs/bafkreide4kwmh2l7ldpcfetvvgf6htp44rgqsq7xqnfzgztvfkpawbbpo4",
   "custom_fields": {
     "dna": "b0fa1dd724f24514d4f6f5aceb8480f112de4fbd",
     "edition": 1,
