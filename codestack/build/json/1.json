@@ -1,0 +1,42 @@
+{
+  "name": "Saksham NFT #1",
+  "description": "These are the best NFT's in the world",
+  "file_url": "ipfs://NewUriToReplace/1.png",
+  "custom_fields": {
+    "dna": "b0fa1dd724f24514d4f6f5aceb8480f112de4fbd",
+    "edition": 1,
+    "date": 1648383797296,
+    "compiler": "HashLips Art Engine"
+  },
+  "external_url": "https://codecats.xyz",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ]
+}
